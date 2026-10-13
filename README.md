@@ -12,7 +12,6 @@ Les données sont stockées en mémoire et sont réinitialisées à chaque redé
 * Inscription des personnages aux raids
 * Gestion des statuts d'inscription
 * Gestion automatique de la liste d'attente
-* API REST avec échanges en JSON
 
 ## Règles de gestion
 
